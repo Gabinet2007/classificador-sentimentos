@@ -6,8 +6,8 @@ Projeto simples em Python com Machine Learning para identificar se uma frase exp
 
 * Como se usa?
 
-1. Inicie o arquivo `train_sentiment.py` para treinar o modelo  
-2. Inicie o arquivo `predict_sentiment.py` para testar novas frases no terminal
+1. Inicie o arquivo `train_model.py` para treinar o modelo  
+2. Inicie o arquivo `predict.py` para testar novas frases no terminal
 
 * Tecnologias utilizadas:
 - **Python**: linguagem principal do projeto;  
@@ -23,8 +23,8 @@ Simple Python project using Machine Learning to identify whether a sentence expr
 
 * How to use?
 
-1. Run the `train_sentiment.py` file to train the model  
-2. Run the `predict_sentiment.py` file to test new sentences in the terminal
+1. Run the `train_model.py` file to train the model  
+2. Run the `predict.py` file to test new sentences in the terminal
 
 * Technologies used:
 - **Python**: main language of the project;  
