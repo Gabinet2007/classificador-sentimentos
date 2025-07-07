@@ -33,5 +33,3 @@ Simple Python project using Machine Learning to identify whether a sentence expr
 - **Joblib**: saving and loading trained models;
 
 ---
-
-Se quiser, posso montar também a seção de “Sobre o projeto” ou colocar badges (como Python version, License, etc). Deseja isso?
